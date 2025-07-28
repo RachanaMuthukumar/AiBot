@@ -1,4 +1,4 @@
-# 🇮🇳 Emergency Helpline Numbers in India
+#  Emergency Helpline Numbers in India
 
 
 ## Notes
