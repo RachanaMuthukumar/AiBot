@@ -1,7 +1,5 @@
 
 ## Appointments
 
-Patients can schedule appointments by:
+Call **+91-12345-67890** to book appointment
 
-
- Calling our helpline: **+91-12345-67890**
